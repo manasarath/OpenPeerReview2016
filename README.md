@@ -1,6 +1,6 @@
 # OpenPeerReview2016
 
-The Open Peer Review (OPR) project is carried out in the academic year 2015-16 under the supervision of Prof. Peiling Wang at the School of Information Sciences, University of Tennessee (Knoxville).
+The Open Peer Review (OPR) project is carried out in the academic year 2015-16 under the supervision of Prof. Peiling Wang at the School of Information Sciences, University of Tennessee, Knoxville (UTK).
 
 The project comprises of three sub research topics:
   - Data Scrapping Project
@@ -26,3 +26,6 @@ The Data Scrapping project was first begun while I was taking the Text Mining cl
 -Referee report content: .referee-report-content
 -Author response: .comment-content
 
+This work was disseminated in several top tier journal and conference venues. Few collaborators of this project include with researchers at University of Wisconsin, Milwaukee. 
+
+The qualitative part of the OPR project started while I was taking the Qual Research Methods class with Dr. Erin Whiteside at UTK. 
