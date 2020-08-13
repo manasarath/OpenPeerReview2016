@@ -6,7 +6,7 @@ The project comprises of following:
   - Data Scrapping Project
   - Qualitative Resarch Project 
 
-The Data Scrapping project was first begun while I was taking the Text Mining class at Haslam Business School. In this project I tried to study to what extent the scientific community adopt the Open Peer Review Publication Model. To understand this phonomena, specific URls were taken from OPR journal F1000 and specific HTML/CSS elements were extracted from the publication URLs. To run this code, perform the following steps:
+The Data Scrapping project was first begun while I was taking the Text Mining class at Haslam Business School. In this project I tried to study to what extent the scientific community has adopted the Open Peer Review Publication Model. To understand this phonomena, specific URls were taken from OPR journal F1000 and specific HTML/CSS elements were extracted from the publication URLs. To run this code, perform the following steps:
 
   1. Start with installing Selector Gadget extension on your Chrome browser
   2. Install the package rvest on RStudio and run it
