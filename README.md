@@ -1,8 +1,8 @@
 # OpenPeerReview2016
 
-The Open Peer Review (OPR) project is carried out in the academic year 2015-16 under the supervision of Prof. Peiling Wang at the School of Information Sciences, University of Tennessee, Knoxville (UTK).
+The Open Peer Review (OPR) project is carried out in the academic year 2015-16 under the supervision of Prof. Peiling Wang at the School of Information Sciences, University of Tennessee, Knoxville (UTK). Here are some of the research papers which includes these https://content.sciendo.com/configurable/contentpage/journals$002fjdis$002f1$002f4$002farticle-p60.xml ; https://ieeexplore.ieee.org/abstract/document/7991608; https://www.ideals.illinois.edu/handle/2142/89432
 
-The project comprises of three sub research topics:
+The project comprises of following:
   - Data Scrapping Project
   - Qualitative Resarch Project 
 
@@ -28,4 +28,22 @@ The Data Scrapping project was first begun while I was taking the Text Mining cl
 
 This work was disseminated in several top tier journal and conference venues. Few collaborators of this project include with researchers at University of Wisconsin, Milwaukee. 
 
-The qualitative part of the OPR project started while I was taking the Qual Research Methods class with Dr. Erin Whiteside at UTK. 
+The qualitative part of the OPR project started while I was taking Qual Research Methods class with Dr. Erin Whiteside at UTK. As the part of this project, I interviewed scientists and researchers at Oak Ridge Research Lab and UTK. The results and findings are disseminated in https://ieeexplore.ieee.org/abstract/document/7991608
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
