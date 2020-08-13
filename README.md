@@ -27,6 +27,9 @@ The Data Scrapping project was first begun while I was taking the Text Mining cl
 -Author response: .comment-content
 
 This work was disseminated in several top tier journal and conference venues. Few collaborators of this project include with researchers at University of Wisconsin, Milwaukee. 
+Note: I would recommend having the list of URLs in a .txt file and then fetch it to the code. 
+
+
 
 The qualitative part of the OPR project started while I was taking Qual Research Methods class with Dr. Erin Whiteside at UTK. As the part of this project, I interviewed scientists and researchers at Oak Ridge Research Lab and UTK. The results and findings are disseminated in https://ieeexplore.ieee.org/abstract/document/7991608
 
