@@ -14,14 +14,15 @@ The Data Scrapping project was first begun while I was taking the Text Mining cl
  Go on the particular URL and later click on Selector Gadget to see the HTML/CSS element you want to extract. After figuring out the element go ahead and put the element in the R code. Later fetch the list of URLs, where you want the code to run and extract the elements from those URLs. Once the elements from those URLs are extracted you could go ahead and get the writable file which woulld consist of the required elements from those URLs. 
  
  According to this code, the extracted elements from this code include:
-# Author name: .authors
-# Affliations: .affiliations
-# Grant Information: .grant-information
-# Data Availability: #article1-body
-# Date of the referee report: .referee-report-details-box
-# Status of the referee report: .referee-report-status-line
-# Referee name and affliation: .padding-left div
-# Date of author's information: .commenter-role
-# Referee report content: .referee-report-content
-# Author response: .comment-content
+ 
+-Author name: .authors
+-Affliations: .affiliations
+-Grant Information: .grant-information
+-Data Availability: #article1-body
+-Date of the referee report: .referee-report-details-box
+-Status of the referee report: .referee-report-status-line
+-Referee name and affliation: .padding-left div
+-Date of author's information: .commenter-role
+-Referee report content: .referee-report-content
+-Author response: .comment-content
 
